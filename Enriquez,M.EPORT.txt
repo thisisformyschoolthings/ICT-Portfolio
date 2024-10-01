@@ -81,7 +81,7 @@ h1 style="font-family:arial;color:#38252d;">
 </b>
 </h1>
 <video controls="controls" width="500" height="350" autoplay="">
-<source src="C:\Users\X\Downloads\epf\MAPEHMV.mp4" type="video/mp4">
+<source src="C:\Users\X\Downloads\epf\band.mp4" type="video/mp4">
 </video>
 <p style="font-family:arial;color:#38252d;">
 For LPSCI's 15th birthday, my band was given the chance to perform live infront of the whole school! Forever will be a great memory.
