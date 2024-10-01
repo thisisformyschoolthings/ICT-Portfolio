@@ -34,7 +34,7 @@
 </tr>	
 </table>
 <br>
-<img src="C:\Users\Lenovo\Desktop\izza epf\aboutme.jpg" alt="heading" width="1800" height="900" align="center">
+<img src="aboutme.jpg" alt="heading" width="1800" height="900" align="center">
 <br>
 <br>
 <br>
