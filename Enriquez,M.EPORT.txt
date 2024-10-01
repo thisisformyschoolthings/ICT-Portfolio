@@ -1,0 +1,108 @@
+
+<html>
+    <head><title>E-Portfolio</title></head>
+<body>
+<table width="100%" cellpadding="10px">
+                <tr valign="top">
+                    <td bgcolor="White">
+                        <h2 style="text-align:center; color:#ffcfed;">Hello!</h2>
+                        <h3 style="text-align:center; color:#ffcfed;"> My favorite song</h3>
+                        <audio controls="controls">
+     <source src="06. Medicine.mp3"/></audio>
+                        <img 
+                        <ul>
+                            <b><em><li><a href="#" style="color:#ffcfed;">my profile ☆</a></li></em></b>
+                            <b><em><li><a href="#1st" style="color:#ffcfed;">1st quarter ☆</a></li></em></b>
+                            <b><em><li><a href="#out1" style="color:#ffcfed;">browser outputs ☆</a></li></em></b>
+                            <b><em><li><a href="#ref1" style="color:#ffcfed;">reflection on the 1st quarter ☆</a></li></em></b>
+                            <b><em><li><a href="#credits" style="color:#ffcfed;">credits ☆</a></li></em></b>
+                        </ul>
+                        <form action="http://www.myserver.com/myscript.cgi" method="post">
+                           <h3 style="text-align:center; color:#ffcfed;">Enter name here</h3> 
+                      <input type="text"/>
+                      <br/>
+                      <input type="submit"/>     
+                    
+                        </form>
+                       
+                         
+<img src=".jpg" alt=""/>
+                    </td> <td> 
+<table align="right" border="0" cellspacing="10" cellpadding="10">
+<tr>
+<td><b><a href="mailto:yramizzabel@gmail.com" target="_self" style="color:#38252d;font-family:arial;">Contact Me</b></a></td>
+</tr>	
+</table>
+<br>
+<img src="C:\Users\Lenovo\Desktop\izza epf\aboutme.jpg" alt="heading" width="1800" height="900" align="center">
+<br>
+<br>
+<br>
+<br>
+<h1 style="font-family:Arial;">About Me!</h1>
+<table style="width:100%;font-family:arial;" border="2" bordercolor="#38252d" align="center" cellspacing="5" cellpadding="9">
+<tr>
+<th colspan="2" bgcolor="#ebbed6">Details . . .</th>
+<th rowspan="9"><img src="C:\Users\X\Downloads\epf\G9_FRANCISCO_KARLA MEI.png" alt="me" width="150" height="200">
+</tr>
+<tr>
+<td bgcolor="#ebbed6"><b>Name</b></td>
+<td>Mary Izzabel R. Enriquez</td>
+<tr>
+<td bgcolor="#ebbed6"><b>Grade and Section</b></td>
+<td>9 - Fairness</td>
+<tr>
+<td bgcolor="#ebbed6"><b>Age</b></td>
+<td>15</td>
+<tr>
+<td bgcolor="#ebbed6"><b>Date of Birth</b></td>
+<td>September 13, 2009</td>
+<tr>
+<td bgcolor="#ebbed6"><b>Gender</b></td>
+<td>Female</td>
+<tr>
+<td bgcolor="#ebbed6"><b>Color</b></td>
+<td>Yellow</td>
+<tr>
+<td bgcolor="#ebbed6"><b>Zodiac Sign</b></td>
+<td>Virgo</td>
+<tr>
+<td bgcolor="#ebbed6"><b>Siblings</b></td>
+<td>One</td>
+</tr>
+</table> </td>
+</tr>
+</table>
+
+
+h1 style="font-family:arial;color:#38252d;">
+<b>
+- Foundation Day - Band performance
+</b>
+</h1>
+<video controls="controls" width="500" height="350" autoplay="">
+<source src="C:\Users\X\Downloads\epf\MAPEHMV.mp4" type="video/mp4">
+</video>
+<p style="font-family:arial;color:#38252d;">
+For LPSCI's 15th birthday, my band was given the chance to perform live infront of the whole school! Forever will be a great memory.
+</p>
+
+<img src="C:\Users\Lenovo\Downloads\g9.jpg" alt="Izzapics">
+<p style="font-family:arial;color:#38252d;">
+This school year has brought me many interesting experiences. I've gotten to join many new competitions that I've never even considered to learn before! I got to 
+</br> compete in a school-wide debate, I've made new friends that are very close to me now, I've continued being friends with those I love, and I stayed pretty 
+</br> active in class. Though the subjects got harder, I got tougher too! I'm doing my best and succeeding to enjoy this school year. </p>
+
+<h2> REFLECTION </h2>
+
+I have to admit that this quarter has been far from easy for me. I’ve encountered many moments of confusion. Personally, I don’t consider ICT to be one of my 
+</br> strong suits, but I always make it a point to persevere and do my best. I’m committed to enhancing my computer skills because I genuinely have an interest 
+</br> in coding websites, and I know that learning how to create one will benefit me in the future.
+
+<p> This quarter focused on coding in XHTML and HTML. It was challenging to memorize some of the tags, attributes, and rules, but I managed to get through 
+<br/> multiple hands-on activities. I’ll continue to learn and improve, as I expect these lessons to be relevant in the upcoming quarters, college, and possibly 
+</br> even in my future career.
+
+</p>
+</body>
+</html>
